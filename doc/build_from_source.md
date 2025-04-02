@@ -13,7 +13,7 @@ brew install libomp
 
 Please set ENV **CPPFLAGS** and **LDFLAGS** via output
 
-### Python Bindings - NOT TEST
+### ~~~Python Bindings - NOT TEST~~~
 
 ### Building Instructions
 
